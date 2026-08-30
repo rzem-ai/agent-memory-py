@@ -1,0 +1,5 @@
+corpus: all (thoughts + documents)
+
+[1] corpus: thoughts | taint: internal | rank: 0.300 | sim: 0.500 | 2026-04-01 | agent: angus | id: 11111111-2222-3333-4444-555555555555
+    First line of a multiline thought
+second line kept verbatim | tags: notes

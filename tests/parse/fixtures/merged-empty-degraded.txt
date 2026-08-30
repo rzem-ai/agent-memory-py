@@ -1,0 +1,3 @@
+No matching memories found.
+
+note: the documents corpus was unavailable (vault not mounted or its embedding backend was unreachable).

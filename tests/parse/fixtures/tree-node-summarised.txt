@@ -1,0 +1,11 @@
+path: mail/2026/07
+state: summarised
+window: 2026-07-01..2026-07-31
+docs: 58
+last appended: 2026-07-31T22:14:09.000Z
+
+## July mail
+
+- Kickoff thread with the platform team.
+
+Second paragraph with detail.

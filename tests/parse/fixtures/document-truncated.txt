@@ -1,0 +1,14 @@
+id: art-777
+title: A very long article
+source: articles
+external_id: https://example.com/long
+taint: external
+score: 1.000
+event_at: 2026-06-02T00:00:00.000Z
+ingested_at: 2026-06-02T01:00:00.000Z
+vault_path: articles/2026/06/02/long.md
+provenance: (none)
+body_source: chunks
+note: body truncated to 43 characters
+
+This body was cut off at exactly forty-four

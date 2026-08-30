@@ -1,0 +1,4 @@
+corpus: documents
+
+[1] corpus: documents | taint: external | rank: 0.641 | sim: 0.788 | 2026-07-15 | source: github | doc: gh-123 | path: github/2026/07/15/pr-42.md
+    PR 42 review - Discussion of the retry logic

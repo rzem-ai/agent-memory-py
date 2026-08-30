@@ -1,0 +1,6 @@
+path: mail/2026/08
+state: open
+window: 2026-08-01..2026-08-15
+docs: 23
+
+(No summary yet - this node is still open.)

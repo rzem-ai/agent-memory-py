@@ -1,0 +1,17 @@
+{
+  "name": "agent-memory",
+  "owner": {
+    "name": "Alex Rzemieniuk"
+  },
+  "metadata": {
+    "description": "Long-term memory for Claude Code via the agent-memory MCP server.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-memory",
+      "source": "./plugin",
+      "description": "The nine agent-memory tools plus auto-recall on every prompt, auto-capture on Stop, and the using-memory skill. Configure AGENT_MEMORY_URL and AGENT_MEMORY_TOKEN."
+    }
+  ]
+}

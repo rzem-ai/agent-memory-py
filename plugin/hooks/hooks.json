@@ -1,0 +1,27 @@
+{
+  "description": "agent-memory: auto-recall relevant memories on every prompt; auto-capture durable facts when a turn ends. Both fail-open — a down memory server never blocks the session.",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/scripts/user-prompt-submit.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/scripts/stop.sh\"",
+            "timeout": 60
+          }
+        ]
+      }
+    ]
+  }
+}

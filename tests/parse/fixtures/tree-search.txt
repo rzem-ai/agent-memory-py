@@ -1,0 +1,6 @@
+tree search: kickoff planning
+
+[1] mail/2026/07 | summarised | rank: 0.912 | sim: 0.801 | window: 2026-07-01..2026-07-31
+    July mail: kickoff thread with the platform team
+
+[2] github/2026/06 | summarised | rank: 0.454 | sim: 0.454 | window: 2026-06-01..2026-06-30

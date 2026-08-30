@@ -1,0 +1,19 @@
+id: mail-2026-07-15-0042
+title: Project kickoff notes
+source: mail
+external_id: <CAExample@mail.gmail.com>
+taint: external
+score: 0.850
+event_at: 2026-07-15T09:30:00.000Z
+ingested_at: 2026-07-15T10:02:11.000Z
+vault_path: mail/2026/07/15/kickoff.md
+provenance: {"from":"pm@example.com","thread":"kickoff"}
+body_source: vault
+
+# Kickoff
+
+Agenda:
+
+- item one
+
+event_at: this line is body content, not a header

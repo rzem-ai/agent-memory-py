@@ -1,0 +1,7 @@
+corpus: all (thoughts + documents)
+
+[1] corpus: thoughts | taint: internal | rank: 0.500 | sim: 0.700 | 2026-06-01 | agent: angus | id: 9d8c7b6a-5f4e-3d2c-1b0a-998877665544
+    A thought captured with no tags at all
+
+[2] corpus: documents | taint: internal | rank: 0.400 | sim: 0.600 | 2026-05-01 | source: folder | doc: folder-001 | path: folder/2026/05/note.md
+    Untitled drop
